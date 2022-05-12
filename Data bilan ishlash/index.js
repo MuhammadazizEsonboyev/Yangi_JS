@@ -8,6 +8,6 @@ root.innerHTML = `
 Assalomu aleykum  bugungi sana: ${data.getDate()}
 `
 
-
+// console.log(123);
 
 // console.log(data.getDate());
